@@ -5,7 +5,8 @@ I'm a researcher with a background in **Communications Engineering**. After over
 ## Skills & Tools:
 - **Languages:** Python, MATLAB, SQL
 - **Technologies:** AWS, Git
-- **Areas of Expertise:** Optimization Algorithms, Statistical Analysis, Hypothesis Testing (Normality Testing)
+- **Data science:**	Data cleaning, data visualization (pandas, matplotlib, seaborn), hypothesis testing
+- **Optimization:** Convex optimization, linear programming, constrained programming 
 
 ## Activities:
 - [AWS Data Engineering Path at Mimmit Koodaa](https://mimmitkoodaa.fi/amazon/)
