@@ -11,7 +11,7 @@ This repository contains various small data analysis projects where I applied di
 My portfolio repository includes more complex data science projects.  
 
 ### 3. **[Practical SQL Book](https://github.com/rkschroeder/PracticalSQL)**
-This repository contains my notes, code, and exercises from the book *Practical SQL*. It serves as a guide to SQLite and PostgreSQL.
+This repository contains my notes, code, and exercises from the book *Practical SQL*. .
 
 ## Skills
 
