@@ -15,7 +15,7 @@ This repository contains my notes, code, and exercises from the book *Practical 
 
 ## Skills
 
-- **Python**: matploblib, numpy, pandas, seaborn, scikit-learn
+- **Python**: Matploblib, Numpy, Pandas, Seaborn, Scikit-learn
 - **Additional Programming Languages**: SQL, MATLAB
 - **Data Science**: Data Cleaning and Visualization, Statistical Analysis, Feature Engineering, Machine Learning
 - **Cloud Technologies**: AWS, Databricks
