@@ -28,7 +28,7 @@ This repository contains my notes, code, and exercises from the book *Practical 
 - [Databricks Fundamentals](https://credentials.databricks.com/80701b3e-e4b2-453d-8bc6-c64dd2a193e5#acc.bEU5mMJZ)
 - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/PHD4IHDSGX0T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/TVGNOHSRX4CV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [SQL](https://www.linkedin.com/in/rafaela-schroeder/details/certifications/)
+- [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/3NUDTFGAJ5AN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 ## Activities
 
