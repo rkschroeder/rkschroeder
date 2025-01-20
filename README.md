@@ -1,7 +1,5 @@
 # Hello, I'm Rafaela!
 
-# Guide to My Repositories
-
 Welcome to my GitHub! Here you’ll find several repositories showcasing my skills in data science. Below is an overview of each repository and its content.
 
 ## Repositories Overview
