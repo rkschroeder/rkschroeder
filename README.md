@@ -8,10 +8,10 @@ Welcome to my GitHub! Here you’ll find several repositories showcasing my skil
 This repository contains various small data analysis projects where I applied different data processing strategies and visualization techniques. 
 
 ### 2. **[Portfolio](https://github.com/rkschroeder/Portfolio)**
-My portfolio repository includes a selection of my  significant data science projects. These are typically larger projects that involve more complex datasets, machine learning models, and data visualizations.
+My portfolio repository includes more complex data science projects.  
 
 ### 3. **[Practical SQL Book](https://github.com/rkschroeder/PracticalSQL)**
-This repository contains my notes, code, and exercises from the book *Practical SQL*. It serves as a guide to mastering SQL, focusing on SQLite, PostgreSQL, and Python for data analysis.
+This repository contains my notes, code, and exercises from the book *Practical SQL*. It serves as a guide to SQLite and PostgreSQL.
 
 ## Skills
 
