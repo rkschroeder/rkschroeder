@@ -1,17 +1,11 @@
 # Hello, I'm Rafaela!
-
-Welcome to my GitHub! Here you’ll find several repositories showcasing my skills in data science. Below is an overview of each repository and its content.
-
 ## Repositories Overview
 
 ### 1. **[Data Practice](https://github.com/rkschroeder/DataPractice)**
-This repository contains various small data analysis projects where I applied different data processing strategies and visualization techniques. 
 
 ### 2. **[Portfolio](https://github.com/rkschroeder/Portfolio)**
-My portfolio repository includes more complex data science projects (larger datasets, statistical analysis, feature engineering techniques, etc).
 
 ### 3. **[Practical SQL Book](https://github.com/rkschroeder/PracticalSQL)**
-This repository contains my notes, code, and exercises from the book *Practical SQL*. It serves as a guide to mastering SQLite and PostgreSQL.
 
 ## Skills
 
