@@ -1,17 +1,10 @@
 # Hello, I'm Rafaela!
-## Repositories Overview
-
-### 1. **[Data Practice](https://github.com/rkschroeder/DataPractice)**
-
-### 2. **[Portfolio](https://github.com/rkschroeder/Portfolio)**
-
-### 3. **[Practical SQL Book](https://github.com/rkschroeder/PracticalSQL)**
 
 ## Skills
 
 - **Python**: Matploblib, Numpy, Pandas, Seaborn, Scikit-learn
 - **Additional Programming Languages**: SQL, MATLAB
-- **Data Science**: Data Cleaning and Visualization, Statistical Analysis, Feature Engineering, Machine Learning
+- **Data Science**: Data Cleaning and Visualization, EDA, Feature Engineering
 - **Cloud Technologies**: AWS, Databricks
 - **Version Control**: Git, GitHub
 
