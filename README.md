@@ -1,5 +1,7 @@
 # Hello, I'm Rafaela!
 
+I'm a telecommunications researcher with experience in convex optimization algorithms and statistical signal processing. 
+
 ## Skills
 
 - **Python**: Matploblib, Numpy, Pandas, Seaborn, Scikit-learn
