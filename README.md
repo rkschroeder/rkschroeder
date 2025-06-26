@@ -4,11 +4,11 @@ I'm a telecommunications researcher with experience in convex optimization algor
 
 ## Skills
 
-- **Python**: Matploblib, Numpy, Pandas, Seaborn, Scikit-learn
+- **Python**: Matploblib, Numpy, Pandas, Pytest, Seaborn, Scikit-learn, Unittest
 - **Additional Programming Languages**: SQL, MATLAB
 - **Data Science**: Data Cleaning and Visualization, EDA, Feature Engineering
 - **Cloud Technologies**: AWS, Databricks
-- **Version Control**: Git, GitHub
+- **Software Development**: Git, TDD (unit test, integration test)
 
 ## Certifications
 
@@ -19,8 +19,8 @@ I'm a telecommunications researcher with experience in convex optimization algor
 
 ## Activities
 
-- [Women in Data Science Datathon](https://www.widsworldwide.org/get-inspired/blog/8th-annual-wids-datathon-challenges-unraveling-the-mysteries-of-the-female-brain/)
-- [AWS Data Engineering Study Path at Mimmit Koodaa](https://mimmitkoodaa.fi/tapahtuma/data-engineer-2024-kickoff/)
+- [Women in Data Science Datathon. Completed.](https://www.widsworldwide.org/get-inspired/blog/8th-annual-wids-datathon-challenges-unraveling-the-mysteries-of-the-female-brain/)
+
 
 
 
