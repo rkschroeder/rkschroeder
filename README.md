@@ -1,6 +1,6 @@
 # Hello, I'm Rafaela!
 
-I have a background in signal processing for telecommunications engineering and I am currently improving my skills in software development. My goal is to combine these areas to deliver production-level algorithmic solutions in an industry role.
+I have a strong background in signal processing for telecommunications engineering and I am currently improving my skills in software development. My goal is to combine these areas to deliver production-level algorithmic solutions in an industry role.
 
 ## Technical Skills
 
