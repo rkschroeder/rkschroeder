@@ -4,20 +4,20 @@ I have a strong background in signal processing for telecommunications engineeri
 
 # Skills
 
-## Programming & Software Development
+### Programming & Software Development
 - **Languages:** Python, MATLAB, C++
 - **Version Control & Testing:** Git, Test-Driven Development (unit & integration tests)
 
-## Signal Processing
+### Signal Processing
 - Estimation Algorithms
 - Kalman Filter and its Variants
 
-## Data & Analytics
+### Data & Analytics
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 
-## Cloud & Platforms
+### Cloud & Platforms
 - AWS
 - Databricks
 
