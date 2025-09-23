@@ -20,7 +20,7 @@ I have a strong background in signal processing for telecommunications engineeri
 ## Cloud & Platforms
 - AWS
 - Databricks
-- 
+
 # Certifications
 
 - [Databricks Fundamentals](https://credentials.databricks.com/80701b3e-e4b2-453d-8bc6-c64dd2a193e5#acc.bEU5mMJZ)
