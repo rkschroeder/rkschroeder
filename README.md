@@ -10,7 +10,7 @@ I have a strong background in signal processing for telecommunications engineeri
 
 ### Signal Processing
 - Estimation Algorithms
-- Kalman Filter and its Variants
+- Kalman Filter (and variants)
 
 ### Data & Analytics
 - Data Cleaning & Preprocessing
