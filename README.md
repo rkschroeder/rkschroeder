@@ -5,7 +5,7 @@ I have a strong background in signal processing for telecommunications engineeri
 # Skills
 
 ### Programming & Software Development
-- **Languages:** Python, MATLAB, C++
+- **Languages:** C++, JavaScript, Python, MATLAB
 - **Version Control & Testing:** Git, Test-Driven Development (unit & integration tests)
 
 ### Signal Processing
