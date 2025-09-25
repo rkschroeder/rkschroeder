@@ -17,7 +17,7 @@ I have a strong background in signal processing for telecommunications engineeri
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 
-### Cloud & Platforms
+### Cloud Platforms
 - AWS
 - Databricks
 
