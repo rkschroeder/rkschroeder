@@ -5,7 +5,7 @@ I have a strong background in signal processing for telecommunications engineeri
 # Skills
 
 ### Programming & Software Development
-- **Languages:** C++, JavaScript, Python, MATLAB
+- **Languages:** C++, Python, MATLAB, TypeScript
 - **Version Control & Testing:** Git, Test-Driven Development (unit & integration tests)
 
 ### Signal Processing
@@ -21,6 +21,11 @@ I have a strong background in signal processing for telecommunications engineeri
 - AWS
 - Databricks
 
+### Full-Stack Group Project 
+- Contribution to the backend using Typescript
+- Collaborated using git, planned sprints and delivered features in the schedule
+- Available at GitLab: [link](https://gitlab.com/N_T/aisw-2025-skill-bank)
+
 # Certifications
 
 - [Databricks Fundamentals](https://credentials.databricks.com/80701b3e-e4b2-453d-8bc6-c64dd2a193e5#acc.bEU5mMJZ)
@@ -29,7 +34,7 @@ I have a strong background in signal processing for telecommunications engineeri
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/3NUDTFGAJ5AN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 # Activities
-- [AI + Software Development Training at Netum Buutti. Ongoing.](https://buuttiedu.com/ai-software-development-training-oulu-2025/)
+- [AI + Software Development Training at Netum Buutti](https://buuttiedu.com/ai-software-development-training-oulu-2025/)
 - [Women in Data Science Datathon. Completed.](https://www.widsworldwide.org/get-inspired/blog/8th-annual-wids-datathon-challenges-unraveling-the-mysteries-of-the-female-brain/)
 
 
