@@ -6,7 +6,7 @@ I'm an engineer with a background in telecommunications and signal processing.
 
 - Current Focus: Data engineering fundamentals  
 - Learning: Apache Spark, Apache Airflow  
-- Interests: Building data pipelines for sensor data and using signal processing techniques to combine multiple sensor signals and estimate system behavior over time  
+- Interests: Building data pipelines for sensor data and using signal processing techniques to estimate system behavior over time  
 
 ## Tech Stack
 
