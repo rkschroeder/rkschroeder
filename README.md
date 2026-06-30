@@ -6,9 +6,9 @@ I'm an engineer with a background in telecommunications and signal processing.
 
 ## About Me
 
-    Current Focus: Data engineering fundamentals and distributed data processing
-    Learning: Apache Spark, Apache Airflow
-    Interests: Building data pipelines for sensor data and using signal processing techniques to combine multiple sensor signals and estimate how a system changes over time
+Current Focus: Data engineering fundamentals and distributed data processing
+Learning: Apache Spark, Apache Airflow
+Interests: Building data pipelines for sensor data and using signal processing techniques to combine multiple sensor signals and estimate how a system changes over time
 
 ## Tech Stack
 
