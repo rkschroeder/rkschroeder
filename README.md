@@ -1,32 +1,29 @@
 # Hi, I'm Rafaela 
 
-I'm an engineer with a background in **telecommunications and signal processing**, where I developed skills in estimation algorithms, Kalman filtering, and mathematical modeling. 
+# Hi, I'm Rafaela
 
-I'm currently transitioning into **software engineering**, expanding my skills in building scalable data pipelines, cloud platforms, and distributed systems. I enjoy learning new technologies and applying them to real-world challenges.
+I'm an engineer with a background in telecommunications and signal processing. 
 
-## Interests & Collaborations
-I'm interested in building systems for collecting, processing, and analyzing sensor data. I'm open to collaborating on open-source projects in this area.
+## About Me
 
-## Currently Learning
+    Current Focus: Data engineering fundamentals and distributed data processing
+    Learning: Apache Spark, Apache Airflow
+    Interests: Building data pipelines for sensor data and using signal processing techniques to combine multiple sensor signals and estimate how a system changes over time
 
-- Apache Airflow
-- Apache Spark
+## Tech Stack
 
-## Skills
+Languages:
+Python · C++ · MATLAB · SQL
 
-### Programming Languages
-- C++
-- Python
-- MATLAB
+Signal Processing:
+Kalman Filters · Estimation Algorithms
 
-### Signal Processing
-- Estimation Algorithms
-- Kalman Filters and Variants
+Cloud & Data Engineering Tools:
+Databricks · Docker · Azure
 
-### Cloud & Data Engineering
-- Databricks
-- Microsoft Azure
-- Docker
+## Open to Collaborations
+
+Open to collaborating on open-source projects involving sensor data, signal processing, and data engineering, or all three combined.
 
 ## Certifications
 - [Databricks Fundamentals](https://credentials.databricks.com/80701b3e-e4b2-453d-8bc6-c64dd2a193e5#acc.bEU5mMJZ)
