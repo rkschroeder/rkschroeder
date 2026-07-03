@@ -5,7 +5,7 @@ I'm an engineer with a background in telecommunications and signal processing.
 ## About Me
 
 - Current Focus: Data engineering fundamentals  
-- Learning: Apache Spark Apache Airflow  
+- Learning: Apache Airflow  
 
 ## Tech Stack
 
