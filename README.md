@@ -5,8 +5,7 @@ I'm an engineer with a background in telecommunications and signal processing.
 ## About Me
 
 - Current Focus: Data engineering fundamentals  
-- Learning: Apache Spark, Apache Airflow  
-- Interests: Building data pipelines for sensor data and using signal processing techniques to estimate system behavior over time  
+- Learning: Apache Spark Apache Airflow  
 
 ## Tech Stack
 
@@ -27,4 +26,3 @@ Open to collaborating on open-source projects involving:
 - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/PHD4IHDSGX0T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/TVGNOHSRX4CV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/3NUDTFGAJ5AN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [AI + Software Development Training at Netum Buutti](https://buuttiedu.com/ai-software-development-training-oulu-2025/)
