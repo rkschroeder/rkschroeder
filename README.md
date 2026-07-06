@@ -24,5 +24,3 @@ Open to collaborating on open-source projects involving:
 - [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/PHD4IHDSGX0T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/TVGNOHSRX4CV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/3NUDTFGAJ5AN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-
-![Metrics](https://metrics.lecoq.io/rkschroeder?base=header,activity&activity=1&followup=1)
