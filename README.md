@@ -2,14 +2,11 @@
 
 I'm an engineer with a background in telecommunications and signal processing.
 
-- Current Focus: Data engineering fundamentals  
-- Learning: Apache Airflow  
-
-## Tech Stack
+## Skills
 
 - Languages: Python, C++, MATLAB, SQL  
 - Signal Processing: Kalman Filters, Estimation Algorithms  
-- Cloud & Data Engineering Tools: Databricks, Docker, Azure  
+- Cloud & Data Engineering Tools: Apache Airflow, Databricks, Docker, Azure  
 
 ## Open to Collaborations
 
